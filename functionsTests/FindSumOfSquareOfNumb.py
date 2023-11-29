@@ -1,0 +1,1 @@
+# Create a function that computes the sum of squares of numbers from 1 to n.

@@ -1,0 +1,1 @@
+# How do you find the length of a list and store it in a variable?

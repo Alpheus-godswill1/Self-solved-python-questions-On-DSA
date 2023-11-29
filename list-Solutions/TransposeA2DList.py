@@ -1,0 +1,1 @@
+# Write a Python program to transpose a 2D list (convert rows to columns and vice versa).

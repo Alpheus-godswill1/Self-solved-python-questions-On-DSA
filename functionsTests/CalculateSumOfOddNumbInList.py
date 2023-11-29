@@ -1,0 +1,1 @@
+# Write a function that calculates the sum of all odd numbers in a list.

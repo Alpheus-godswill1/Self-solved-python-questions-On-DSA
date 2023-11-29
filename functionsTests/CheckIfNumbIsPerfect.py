@@ -1,0 +1,1 @@
+# Write a function that checks if a given number is a perfect number.

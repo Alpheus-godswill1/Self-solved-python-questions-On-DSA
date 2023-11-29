@@ -1,0 +1,1 @@
+# Write a function that finds the greatest common divisor (GCD) of two numbers.

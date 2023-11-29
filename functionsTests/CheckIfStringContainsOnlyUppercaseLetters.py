@@ -1,0 +1,1 @@
+# Implement a function that checks if a string contains only uppercase letters.

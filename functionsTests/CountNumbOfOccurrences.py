@@ -1,0 +1,1 @@
+# Implement a function that counts the number of occurrences of a character in a string.
