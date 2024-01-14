@@ -10,4 +10,13 @@
 # print('WeekDay : ' + weekDay)
 
 stuff = dict()
-print(stuff.get('candy', -1))
+# print(stuff.get('candy', -1)) 
+
+
+def stray(arrray):
+    test = arrray[0]
+    for i in arrray:
+        if i != test:
+            print(i)
+array = [17,17,17,8,17,17]
+stray(array)
