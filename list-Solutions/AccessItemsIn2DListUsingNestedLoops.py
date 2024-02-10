@@ -3,9 +3,9 @@
 
 # Sample 2D list
 matrix = [
-    [1, 2, 3],
-    [4, 5, 6],
-    [7, 8, 9]
+    [1, 2, 3,23,17],
+    [4, 5, 6,12,23],
+    [7, 8, 9,9,12]
 ]
 
 # Access elements using nested loops
