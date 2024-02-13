@@ -5,16 +5,14 @@
 matrix = [
     [1, 2,3,23,17],
     [4, 5,6,12,23],
-    [7, 8, 19,9,12,23,67]
+    [7, 8, 19,9,12,23,67],
+    [1,2,3,4,5,6,7]
 ]
 
 # Access elements using nested loops
 rows = len(matrix)
-cols = len(matrix[1])
-# print(rows)
-# print(cols)
+cols = len(matrix[2])
 for i in range(rows):
-    print(i)
     for j in range(cols):
         print(matrix[i][j], end=' ')
     print()
