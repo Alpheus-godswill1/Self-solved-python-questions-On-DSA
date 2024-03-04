@@ -11,8 +11,13 @@ matrix = [
 
 # Access elements using nested loops
 rows = len(matrix)
-cols = len(matrix[2])
+cols = max(len(row) for row in matrix)
 for i in range(rows):
     for j in range(cols):
-        print(matrix[i][j], end=' ')
+        if j < len(matrix[i]):
+            print(matrix[i][j], end=' ')
+        else:
+            print(' ', end=' ')
     print()
+    
+
